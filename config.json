@@ -1,0 +1,12 @@
+{
+    "apps": [
+        {
+            "name": "your_application.exe",
+            "path": "C:/path/to/your/application.exe"
+        },
+        {
+            "name": "another_application.exe",
+            "path": "C:/path/to/another/application.exe"
+        }
+    ]
+}
